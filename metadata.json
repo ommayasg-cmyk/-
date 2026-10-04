@@ -1,0 +1,6 @@
+{
+  "name": "كنوز اللغة العربية",
+  "description": "منصة تعليمية تفاعلية شاملة لإتقان النحو والإعراب، الإملاء والترقيم، البلاغة، والمعاجم مع أسئلة متجددة وأدوات ذكاء اصطناعي وتصدير بطاقات التقييم إلى Padlet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
